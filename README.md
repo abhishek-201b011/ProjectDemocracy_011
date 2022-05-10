@@ -1,3 +1,5 @@
 # ProjectDemocracy_011
 
-I am one who is noone.
+This is new project for democracy
+India is a democracy
+Pakistan is not a democracy
